@@ -62,8 +62,8 @@ body {
 }
 
 @font-face {
-  font-family: 'marola';
-  src: url('fonts/marola.ttf') format('truetype');
+  font-family: 'marola'; 
+  src: url('fonts/marola.TTF') format('truetype');
 }
 
 
