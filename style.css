@@ -33,37 +33,37 @@ body {
 
 @font-face {
   font-family: 'kiera';
-  src: url('kiera.ttf') format('truetype');
+  src: url('fonts/kiera.otf') format('truetype');
 }
 
 @font-face {
   font-family: 'panic';
-  src: url('panic.ttf') format('truetype');
+  src: url('fonts/panic.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'spongeboy';
-  src: url('spongeboy.ttf') format('truetype');
+  src: url('fonts/spongeboy.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'adelia';
-  src: url('adelia.otf') format('opentype');
+  src: url('fonts/adelia.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'boohong';
-  src: url('boohong.ttf') format('truetype');
+  src: url('fonts/boohong.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'aurora';
-  src: url('aurora.otf') format('opentype');
+  src: url('fonts/aurora.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'marola';
-  src: url('marola.ttf') format('truetype');
+  src: url('fonts/marola.ttf') format('truetype');
 }
 
 
